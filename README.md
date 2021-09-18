@@ -23,3 +23,9 @@ yarn add next
 ```bash
 yarn dev
 ```
+
+
+### Bootstrap documentation
+```bash
+https://react-bootstrap.github.io/
+```
