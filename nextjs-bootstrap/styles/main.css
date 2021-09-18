@@ -1,0 +1,16 @@
+/* Import Font Familly */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,900;1,300;1,400;1,900&display=swap');
+
+/* Global */
+*{ font-family: 'Lato', sans-serif; }
+
+/* Header */
+.navbar { background: #fff; }
+.navbar-brand { width: 40px; }
+.header_menu { display: flex; justify-content: end; }
+
+/* Home */
+#home { width: 100%; height: 100vh; background: #fff; background: url(../assets/img/background_home.jpg); background-repeat: no-repeat; background-attachment: fixed; background-position: top center; background-size: cover; position: relative; }
+.home_description { display: flex; justify-content: left; align-items: center; height: 100vh; }
+.home_description_box p { font-weight: 400; font-style: italic; }
+.home_description_box h3 { padding-top: 20px; font-style: italic; }
