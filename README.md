@@ -1,5 +1,5 @@
-# LP-Next.js
-Landing page with Next.js &amp; Bootstrap
+# Flango - Fried Chicken
+Flango Landing page with Next.js &amp; Bootstrap
 
 
 ## Getting Started
