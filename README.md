@@ -7,7 +7,7 @@ Flango Landing page with Next.js &amp; Bootstrap
 ### First, add access the file
 
 ```bash
-cd nextjs-bootstrap
+cd flango-friedchicken
 ```
 
 
